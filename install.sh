@@ -9,3 +9,6 @@ sudo apt-get install git -y
 sudo apt install git-all
 git config --global user.email "kuraushan1020@gmail.com"
 git config --global user.name "Meri marzi"
+git config --list
+git remote -v
+git remote add origin "https://git.com"
