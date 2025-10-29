@@ -1,1 +1,3 @@
-kun hai re tu jor se bol
+[feture 2d208ef]  gaon ka boliya
+ 1 file changed, 1 insertion(+)
+ create mode 100644 jor.txt
